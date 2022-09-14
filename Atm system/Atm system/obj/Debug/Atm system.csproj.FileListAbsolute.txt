@@ -1,0 +1,22 @@
+D:\HH\C#\Atm system\Atm system\Atm system\obj\Debug\Atm system.csproj.AssemblyReference.cache
+D:\HH\C#\Atm system\Atm system\Atm system\obj\Debug\Atm system.csproj.SuggestedBindingRedirects.cache
+D:\HH\C#\Atm system\Atm system\Atm system\obj\Debug\Atm_system.account.resources
+D:\HH\C#\Atm system\Atm system\Atm system\obj\Debug\Atm_system.Balance.resources
+D:\HH\C#\Atm system\Atm system\Atm system\obj\Debug\Atm_system.ChangePin.resources
+D:\HH\C#\Atm system\Atm system\Atm system\obj\Debug\Atm_system.Deposit.resources
+D:\HH\C#\Atm system\Atm system\Atm system\obj\Debug\Atm_system.FASTCASH.resources
+D:\HH\C#\Atm system\Atm system\Atm system\obj\Debug\Atm_system.HOME.resources
+D:\HH\C#\Atm system\Atm system\Atm system\obj\Debug\Atm_system.ministatemenet.resources
+D:\HH\C#\Atm system\Atm system\Atm system\obj\Debug\Atm_system.Splash.resources
+D:\HH\C#\Atm system\Atm system\Atm system\obj\Debug\Atm_system.Login.resources
+D:\HH\C#\Atm system\Atm system\Atm system\obj\Debug\Atm_system.Properties.Resources.resources
+D:\HH\C#\Atm system\Atm system\Atm system\obj\Debug\Atm_system.withdraw.resources
+D:\HH\C#\Atm system\Atm system\Atm system\obj\Debug\Atm system.csproj.GenerateResource.cache
+D:\HH\C#\Atm system\Atm system\Atm system\obj\Debug\Atm system.csproj.CoreCompileInputs.cache
+D:\HH\C#\Atm system\Atm system\Atm system\bin\Debug\ATMDb.mdf
+D:\HH\C#\Atm system\Atm system\Atm system\bin\Debug\ATMDb_log.ldf
+D:\HH\C#\Atm system\Atm system\Atm system\bin\Debug\Atm system.exe.config
+D:\HH\C#\Atm system\Atm system\Atm system\bin\Debug\Atm system.exe
+D:\HH\C#\Atm system\Atm system\Atm system\bin\Debug\Atm system.pdb
+D:\HH\C#\Atm system\Atm system\Atm system\obj\Debug\Atm system.exe
+D:\HH\C#\Atm system\Atm system\Atm system\obj\Debug\Atm system.pdb
