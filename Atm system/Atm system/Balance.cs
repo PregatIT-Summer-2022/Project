@@ -18,14 +18,18 @@ namespace Atm_system
             InitializeComponent();
         } 
 
-        private void panel1_Paint(object sender, PaintEventArgs e)
+        private void panel1_Paint(object sender, PaintEventArgs e) // method naming with PascalCase maybe
         {
 
         }
+        
+        // get the connection from a config file
         SqlConnection Con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\HH\C#\Atm system\Atm system\Atm system\ATMDb.mdf;Integrated Security=True;Connect Timeout=30");
         private void getbalance()
         {
             Con.Open();
+            
+            // watch out for sql injection. If acc number text is like 'a; drop table AccountTbl;--' you might have a problem 
             SqlDataAdapter sda = new SqlDataAdapter(" select Balance from AccountTbl where AccNum='"+AccNumberlbl.Text+"'",Con);
             DataTable dt = new DataTable();
             sda.Fill(dt);
@@ -40,7 +44,7 @@ namespace Atm_system
             getbalance();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e) // never button2 as no one knows which one is it. Maybe ExitButton, or HomeButton, etc
         {
             Application.Exit();
         }
